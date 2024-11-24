@@ -21,12 +21,10 @@ I'm a passionate MERN Stack Developer with a year of experience building modern 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-#### Tools & Deployment
+#### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
 ### 🌟 Key Skills
 
@@ -60,12 +58,4 @@ I'm a passionate MERN Stack Developer with a year of experience building modern 
 
 ---
 
-### 🌐 Featured Projects
-<!-- You can add your best MERN stack projects here -->
-<a href="your-repo-link">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=react" />
-</a>
-
----
-
-⭐️ From [your-github-username](https://github.com/your-github-username)
+⭐️ From [your-github-username](https://github.com/Mohamed072005)
