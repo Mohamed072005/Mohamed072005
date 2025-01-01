@@ -59,6 +59,6 @@ I’m a passionate Full Stack Developer with 2 years of experience building mode
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-amine-haouat-6132a0288/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaminehaouat24@gmail.com)
 ![Phone](https://img.shields.io/badge/-📱_+212_722108288-25D366?style=flat-square)
-![Portfolio](https://mohamedaminehaouat.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=portfolio)](https://mohamedaminehaouat.vercel.app/)
 
 ⭐️ From [Mohamed072005](https://github.com/Mohamed072005)
