@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mohamed Amine Haouat
 
-## 🚀 MERN Stack Developer
+## 🚀 Full Stack Developer
 
-I'm a passionate MERN Stack Developer with a year of experience building modern web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, and Node.js.
+I’m a passionate Full Stack Developer with 2 years of experience building modern web applications. I specialize in creating full-stack solutions using modern technologies.
 
 ### 💻 Tech Stack
 
@@ -15,6 +15,7 @@ I'm a passionate MERN Stack Developer with a year of experience building modern 
 #### Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/-Angular.js-red?style=flat-square&logo=angular.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
@@ -58,5 +59,6 @@ I'm a passionate MERN Stack Developer with a year of experience building modern 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-amine-haouat-6132a0288/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaminehaouat24@gmail.com)
 ![Phone](https://img.shields.io/badge/-📱_+212_722108288-25D366?style=flat-square)
+![Portfolio](https://mohamedaminehaouat.vercel.app/)
 
-⭐️ From [your-github-username](https://github.com/Mohamed072005)
+⭐️ From [Mohamed072005](https://github.com/Mohamed072005)
